@@ -19,6 +19,8 @@ public class Schedule {
 		System.out.println("일정을 적어주세요");
 		memo = scan1.nextLine();
 		
+		System.out.println("연동 TEST");
+		
 	}
 	public void AddScheduleTest()
 	{
