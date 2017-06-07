@@ -6,9 +6,6 @@ public class SchedulerTest {
 	public static void main(String[] args) 
 	{
 		///==========Test==========
-		Date date = new Date();
-		date.currentTime();
-		
 		//===========Test==========
 		ArrayList<Schedule> schedule_Array = null;
 		schedule_Array = new ArrayList<Schedule>();
